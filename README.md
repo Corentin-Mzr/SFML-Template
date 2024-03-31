@@ -28,6 +28,7 @@ This project aims to share a simple SFML template for your projects with this li
 - Make for Windows
 
 ## How to use
+Before using the commands you may have to create two folder named *obj*: one in *bin/debug* and one in *bin/release.*
 
 ### Build the debug version
 > make debug
