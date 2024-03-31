@@ -67,6 +67,7 @@ Go in the Makefile and modify the variable *EXECUTABLE_NAME*
 ```
 
 ## License
+[MIT License](LICENSE.md)
 
 ## Links
 [SFML](https://www.sfml-dev.org/index.php)
